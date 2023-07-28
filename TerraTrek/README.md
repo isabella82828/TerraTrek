@@ -1,4 +1,4 @@
-# Globe-Robot
+# TerraTrek
 
 ### Setup
 
