@@ -4,6 +4,18 @@
 
 🕹️ Using the Raspberry Pi and Porcupine API, it detects the specific wake phrase, “Hey TerraTrek.” The Google Speech Recognition API converts speech to text, and the Google Maps API gathers the coordinates of the location. Next, the Arduino with stepper and servo motors rotates and tilts the globe to the specified location, and the ChatGPT API generates interesting facts about the location. 
 
+## Built with: 
+* Python
+* C
+* C++
+* Raspberry Pi
+* Arduino
+* ChatGPT API
+* Google Maps API
+* Google Speech Recognition API
+* Porcupine API
+
+
 ## Getting started: 
 To get dependencies:
 
@@ -15,3 +27,4 @@ Create .env file for storing API keys with the following format:
 
 API Credentials
 GC_KEY=YOUR_API_KEY_HERE
+
